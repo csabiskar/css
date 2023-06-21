@@ -1,0 +1,64 @@
+body{
+    background-image:radial-gradient(skyblue,white)
+}
+ul li:first-child{
+    color: red;
+}
+a:visited{
+    color: yellow;
+    text-decoration: none;
+}
+a:focus{
+    background-color: rgb(50, 205, 187);
+}
+ul li:last-child{
+    color: blueviolet;
+}
+.class::placeholder{
+    color: blue;
+}
+.p::first-letter{
+ color: blue;
+ font-size: 60px;
+ 
+}
+.p1::before{
+    content:"Before";
+    color:red;
+    font-size: 80px;
+}
+.p1::after{
+content: "After";
+color: red;
+font-size: 80px;
+}
+.p2::first-letter{
+color: rgb(43, 223, 226);
+font-size: 40px;
+background-color: black;
+box-shadow:2px 2px red;
+}
+ol li:nth-child(odd){
+    list-style-type: none;;
+color: red;
+}
+ol li:nth-child(even){
+    color: violet;
+}
+ol li{
+ padding: 10px;
+}
+ol{
+    list-style: none;
+}
+.p3{
+    background-color: aquamarine;
+    width: 300px;
+}
+.p4{
+    background-color: blueviolet;
+    width: 300px;
+}
+table{
+    margin-left: 50px;
+}
