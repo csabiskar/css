@@ -1,0 +1,46 @@
+body{
+    background-image: url(https://img.freepik.com/premium-photo/3d-illustration-smart-farming-concept-tractor-floating-piece-land-with-farm-meadow-view_667286-127.jpg?size=626&ext=jpg&ga=GA1.2.1316699883.1686736729&semt=ais);
+    background-size: cover;
+}
+h1,p{
+    text-align: center;
+    
+}
+.One{
+    background-image:url(https://media.istockphoto.com/id/482295174/photo/sheep-and-cattle.webp?b=1&s=170667a&w=0&k=20&c=MJ4NFf0fO_z6YNF6RfaZt2WMiUiaCyE3nmI3qy2VtVg=) ;
+    width: 250px;
+    height: 250px;
+    margin-left: 25px;
+}
+.div1{
+
+    background-color:white;
+    width: 250px;
+    height: 250px;
+    margin-left: 25px;
+}
+.iconOne{
+    font-size: 80px;
+    padding-left: 90px;
+    padding-top: 20px;
+}
+.h3{
+    margin-left:60px;
+}
+.Two{
+    
+    background-image:url(https://c4.wallpaperflare.com/wallpaper/310/102/485/grey-scale-photo-of-ship-on-sea-under-dark-sky-wallpaper-preview.jpg) ;
+    width: 250px;
+    height: 250px;
+    margin-left: 25px;
+}
+.Three{
+    
+    background-image:url(https://c4.wallpaperflare.com/wallpaper/311/699/596/fruit-allsorts-pineapple-melon-wallpaper-preview.jpg) ;
+    width: 250px;
+    height: 250px;
+    margin-left: 25px;
+}
+section{
+    margin-left: 250px;
+}
